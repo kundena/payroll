@@ -1,0 +1,24 @@
+.admin{
+    background: #DBDBDB;
+    border-radius: 2px;
+    margin-top: 10px;
+    width: 200px;
+
+   
+}
+.admin1{
+    background:#DBDBDB;
+    border-radius: 2px;
+    width: 200px;
+    margin-top: 10px;
+
+   
+}
+.title{
+    margin-left: 20px;
+}
+.button{
+    margin-top: 200px;
+    align-items: center;
+    margin-left: 220px;
+}

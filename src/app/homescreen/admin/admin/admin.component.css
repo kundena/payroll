@@ -1,0 +1,31 @@
+.tool{
+    background-color: cadetblue;
+  }
+  
+  
+  .example-container {
+    width: auto;
+    height: auto;
+   
+  }
+ 
+  
+    .example-sidenav-content {
+      /* display: flex; */
+      
+      height: 100%;
+      align-items: left;
+      justify-content: top;
+    }
+    
+    
+    .example-sidenav {
+      padding: 30px;
+      background-color: dimgrey;
+      
+      width: 280px;
+      position: fixed;
+      margin:64px 0px 0px 0px;
+    }
+    
+    
